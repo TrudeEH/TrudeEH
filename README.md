@@ -1,7 +1,7 @@
 Hi 👋 My name is José Simões
 ============================
 
-Programmer
+Software Developer
 ----------
 
 I started to code soon after I got an Arduino when I was 10.
