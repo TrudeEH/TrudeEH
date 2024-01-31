@@ -5,19 +5,19 @@ Software Developer
 ----------
 
 I started to code soon after I got an Arduino when I was 10.
-Since then, I've been learning as much as I could about programming and how hardware works, intending to automate tasks and uncover the magic behind computing.
+Since then, I've been learning as much as possible about programming and how hardware works, intending to automate tasks and uncover the magic behind computing.
 
 I went through many side-quests along the way, including crypto, AI, learning a new language (English), and most importantly, Linux, which introduced me to the amazing world of open-source software. 
 
-After finishing the "professional computer technician course", also known as school, I took Harvard's CS50x, looking to deepen my software knowledge. 
+After finishing a hardware/programming course, I took Harvard's CS50x, looking to deepen my knowledge of lower-level software and computer science. 
 
 My journey has just begun, so I'm always looking for new opportunities and technologies to discover.
 
 *   🌍  I'm based in Portugal
 *   ✉️  You can contact me at [ehtrude@gmail.com](mailto:ehtrude@gmail.com)
 *   🚀  I'm currently working on [Linux Dotfiles](http://github.com/TrudeEH/dotfiles)
-*   🧠  I'm learning Rust
-*   🤝  I'm open to collaborating on Linux, Open-Source, AI and LLMs
+*   🧠  I'm learning Swift / SwiftUI
+*   🤝  I'm open to collaborating on Linux, Open-Source, AI Apps/UIs and desktop apps
 
 ### Skills 
 <p align="left">
