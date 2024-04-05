@@ -15,9 +15,9 @@ My journey has just begun, so I'm always looking for new opportunities and techn
 
 *   🌍  I'm based in Portugal
 *   ✉️  You can contact me at [ehtrude@gmail.com](mailto:ehtrude@gmail.com)
-*   🚀  I'm currently working on [MacOS Dotfiles](http://github.com/TrudeEH/dotfiles)
-*   🧠  I'm learning Swift / SwiftUI
-*   🤝  I'm open to collaborating on Linux, Open-Source, AI Apps/UIs and desktop apps
+*   🚀  I'm currently working on [my Dotfiles](http://github.com/TrudeEH/dotfiles)
+*   🧠  I'm learning Rust
+*   🤝  I'm open to collaborating on Linux, Open-Source, AI Apps/UIs and (GTK) desktop apps
 
 ### Skills 
 <p align="left">
